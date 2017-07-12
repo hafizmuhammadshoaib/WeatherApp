@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string-array name="cityname">
+        <item>Karachi</item>
+        <item>Lahore</item>
+        <item>Islamabad</item>
+    </string-array>
+</resources>
